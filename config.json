@@ -2,6 +2,7 @@
   "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "127.0.0.1:7890",
+   "debug": true,
   "single_chat_prefix": [
     "bot",
     "@bot"
@@ -21,7 +22,6 @@
     "看",
     "找"
   ],
-  "debu": true,
   "speech_recognition": false,
   "group_speech_recognition": false,
   "voice_reply_voice": false,
