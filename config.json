@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "127.0.0.1:7890",
    "debug": true,
