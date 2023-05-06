@@ -1,5 +1,5 @@
 {
-  "open_ai_api_key": "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",
+  "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "127.0.0.1:7890",
   "single_chat_prefix": [
@@ -21,7 +21,7 @@
     "看",
     "找"
   ],
-  "use_azure_chatgp":False,
+  "use_azure_chatgp":false,
   "speech_recognition": false,
   "group_speech_recognition": false,
   "voice_reply_voice": false,
