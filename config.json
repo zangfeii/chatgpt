@@ -2,7 +2,6 @@
   "open_ai_api_key": "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",
   "model": "gpt-3.5-turbo",
   "proxy": "127.0.0.1:7890",
-   "debug": true,
   "single_chat_prefix": [
     "bot",
     "@bot"
